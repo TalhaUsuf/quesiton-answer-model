@@ -1,0 +1,8 @@
+data
+
+*.zip
+
+*.trt
+*.onnx
+.idea
+epiNoiseoffset_v2.safetensors
